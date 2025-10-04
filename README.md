@@ -35,7 +35,7 @@ Designed for games like **Valorant**, this tool allows you to capture the center
 
 
 ### 💾 Download Executable
-If you don’t want to build from source, you can directly **[ValorantCenterZoom.exe](/dist/ValorantCenterZoom.exe)** from the releases section.
+If you don’t want to build from source, you can directly **[ValorantCenterZoom.exe](/dist/)** from the releases section.
 
 ---
 
@@ -112,4 +112,5 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ## ⭐ Support
 If you like this project, don’t forget to **star ⭐ the repo** and share it with others!
+
 
